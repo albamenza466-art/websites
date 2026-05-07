@@ -1,4 +1,4 @@
-# Introduction
+je veux travailler en tout j'ai une diplôme en restauration je suis très intelligent comme garçon en plus je peux être un grand basketteur ça c'est sûr# Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
 
